@@ -1,0 +1,9 @@
+C:\Users\tjomka777tjomka777\Source\Repos\Move_Window\Move_Window\bin\Debug\Move_Window.exe.config
+C:\Users\tjomka777tjomka777\Source\Repos\Move_Window\Move_Window\bin\Debug\Move_Window.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Move_Window\Move_Window\bin\Debug\Move_Window.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\Move_Window\Move_Window\obj\Debug\Move_Window.csprojAssemblyReference.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Move_Window\Move_Window\obj\Debug\Move_Window.Form1.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Move_Window\Move_Window\obj\Debug\Move_Window.Properties.Resources.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Move_Window\Move_Window\obj\Debug\Move_Window.csproj.GenerateResource.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Move_Window\Move_Window\obj\Debug\Move_Window.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Move_Window\Move_Window\obj\Debug\Move_Window.pdb
