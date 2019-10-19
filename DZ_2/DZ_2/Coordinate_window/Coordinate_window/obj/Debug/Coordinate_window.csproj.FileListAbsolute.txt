@@ -1,0 +1,10 @@
+C:\Users\group-bbv182\source\repos\Coordinate_window\Coordinate_window\bin\Debug\Coordinate_window.exe.config
+C:\Users\group-bbv182\source\repos\Coordinate_window\Coordinate_window\bin\Debug\Coordinate_window.exe
+C:\Users\group-bbv182\source\repos\Coordinate_window\Coordinate_window\bin\Debug\Coordinate_window.pdb
+C:\Users\group-bbv182\source\repos\Coordinate_window\Coordinate_window\obj\Debug\Coordinate_window.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\Coordinate_window\Coordinate_window\obj\Debug\Coordinate_window.Form1.resources
+C:\Users\group-bbv182\source\repos\Coordinate_window\Coordinate_window\obj\Debug\Coordinate_window.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\Coordinate_window\Coordinate_window\obj\Debug\Coordinate_window.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\Coordinate_window\Coordinate_window\obj\Debug\Coordinate_window.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\Coordinate_window\Coordinate_window\obj\Debug\Coordinate_window.exe
+C:\Users\group-bbv182\source\repos\Coordinate_window\Coordinate_window\obj\Debug\Coordinate_window.pdb

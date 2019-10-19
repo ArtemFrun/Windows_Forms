@@ -1,0 +1,10 @@
+C:\Users\group-bbv182\source\repos\Run_static_run\Run_static_run\bin\Debug\Run_static_run.exe.config
+C:\Users\group-bbv182\source\repos\Run_static_run\Run_static_run\bin\Debug\Run_static_run.exe
+C:\Users\group-bbv182\source\repos\Run_static_run\Run_static_run\bin\Debug\Run_static_run.pdb
+C:\Users\group-bbv182\source\repos\Run_static_run\Run_static_run\obj\Debug\Run_static_run.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\Run_static_run\Run_static_run\obj\Debug\Run_static_run.Form1.resources
+C:\Users\group-bbv182\source\repos\Run_static_run\Run_static_run\obj\Debug\Run_static_run.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\Run_static_run\Run_static_run\obj\Debug\Run_static_run.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\Run_static_run\Run_static_run\obj\Debug\Run_static_run.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\Run_static_run\Run_static_run\obj\Debug\Run_static_run.exe
+C:\Users\group-bbv182\source\repos\Run_static_run\Run_static_run\obj\Debug\Run_static_run.pdb

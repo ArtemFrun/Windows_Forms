@@ -1,0 +1,10 @@
+C:\Users\group-bbv182\source\repos\Угадай_число\Угадай_число\bin\Debug\Угадай_число.exe.config
+C:\Users\group-bbv182\source\repos\Угадай_число\Угадай_число\bin\Debug\Угадай_число.exe
+C:\Users\group-bbv182\source\repos\Угадай_число\Угадай_число\bin\Debug\Угадай_число.pdb
+C:\Users\group-bbv182\source\repos\Угадай_число\Угадай_число\obj\Debug\Угадай_число.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\Угадай_число\Угадай_число\obj\Debug\Угадай_число.Form1.resources
+C:\Users\group-bbv182\source\repos\Угадай_число\Угадай_число\obj\Debug\Угадай_число.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\Угадай_число\Угадай_число\obj\Debug\Угадай_число.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\Угадай_число\Угадай_число\obj\Debug\Угадай_число.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\Угадай_число\Угадай_число\obj\Debug\Угадай_число.exe
+C:\Users\group-bbv182\source\repos\Угадай_число\Угадай_число\obj\Debug\Угадай_число.pdb

@@ -1,0 +1,10 @@
+C:\Users\group-bbv182\source\repos\Резюме\Резюме\bin\Debug\Резюме.exe.config
+C:\Users\group-bbv182\source\repos\Резюме\Резюме\bin\Debug\Резюме.exe
+C:\Users\group-bbv182\source\repos\Резюме\Резюме\bin\Debug\Резюме.pdb
+C:\Users\group-bbv182\source\repos\Резюме\Резюме\obj\Debug\Резюме.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\Резюме\Резюме\obj\Debug\Резюме.Form1.resources
+C:\Users\group-bbv182\source\repos\Резюме\Резюме\obj\Debug\Резюме.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\Резюме\Резюме\obj\Debug\Резюме.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\Резюме\Резюме\obj\Debug\Резюме.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\Резюме\Резюме\obj\Debug\Резюме.exe
+C:\Users\group-bbv182\source\repos\Резюме\Резюме\obj\Debug\Резюме.pdb
