@@ -1,0 +1,9 @@
+C:\Users\tjomka777tjomka777\Source\Repos\Day_Week\Day_Week\bin\Debug\Day_Week.exe.config
+C:\Users\tjomka777tjomka777\Source\Repos\Day_Week\Day_Week\bin\Debug\Day_Week.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Day_Week\Day_Week\bin\Debug\Day_Week.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\Day_Week\Day_Week\obj\Debug\Day_Week.csprojAssemblyReference.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Day_Week\Day_Week\obj\Debug\Day_Week.Form1.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Day_Week\Day_Week\obj\Debug\Day_Week.Properties.Resources.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Day_Week\Day_Week\obj\Debug\Day_Week.csproj.GenerateResource.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Day_Week\Day_Week\obj\Debug\Day_Week.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Day_Week\Day_Week\obj\Debug\Day_Week.pdb

@@ -1,0 +1,9 @@
+C:\Users\tjomka777tjomka777\Source\Repos\Time_to_date\Time_to_date\bin\Debug\Time_to_date.exe.config
+C:\Users\tjomka777tjomka777\Source\Repos\Time_to_date\Time_to_date\bin\Debug\Time_to_date.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Time_to_date\Time_to_date\bin\Debug\Time_to_date.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\Time_to_date\Time_to_date\obj\Debug\Time_to_date.csprojAssemblyReference.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Time_to_date\Time_to_date\obj\Debug\Time_to_date.Form1.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Time_to_date\Time_to_date\obj\Debug\Time_to_date.Properties.Resources.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Time_to_date\Time_to_date\obj\Debug\Time_to_date.csproj.GenerateResource.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Time_to_date\Time_to_date\obj\Debug\Time_to_date.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Time_to_date\Time_to_date\obj\Debug\Time_to_date.pdb

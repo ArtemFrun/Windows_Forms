@@ -1,0 +1,9 @@
+C:\Users\tjomka777tjomka777\Source\Repos\BestOil\BestOil\bin\Debug\BestOil.exe.config
+C:\Users\tjomka777tjomka777\Source\Repos\BestOil\BestOil\bin\Debug\BestOil.exe
+C:\Users\tjomka777tjomka777\Source\Repos\BestOil\BestOil\bin\Debug\BestOil.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\BestOil\BestOil\obj\Debug\BestOil.csprojAssemblyReference.cache
+C:\Users\tjomka777tjomka777\Source\Repos\BestOil\BestOil\obj\Debug\BestOil.Form1.resources
+C:\Users\tjomka777tjomka777\Source\Repos\BestOil\BestOil\obj\Debug\BestOil.Properties.Resources.resources
+C:\Users\tjomka777tjomka777\Source\Repos\BestOil\BestOil\obj\Debug\BestOil.csproj.GenerateResource.cache
+C:\Users\tjomka777tjomka777\Source\Repos\BestOil\BestOil\obj\Debug\BestOil.exe
+C:\Users\tjomka777tjomka777\Source\Repos\BestOil\BestOil\obj\Debug\BestOil.pdb
