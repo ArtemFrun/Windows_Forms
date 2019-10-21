@@ -1,0 +1,10 @@
+C:\Users\group-bbv182\source\repos\User Information\User Information\bin\Debug\User Information.exe.config
+C:\Users\group-bbv182\source\repos\User Information\User Information\bin\Debug\User Information.exe
+C:\Users\group-bbv182\source\repos\User Information\User Information\bin\Debug\User Information.pdb
+C:\Users\group-bbv182\source\repos\User Information\User Information\obj\Debug\User Information.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\User Information\User Information\obj\Debug\User_Information.Form1.resources
+C:\Users\group-bbv182\source\repos\User Information\User Information\obj\Debug\User_Information.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\User Information\User Information\obj\Debug\User Information.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\User Information\User Information\obj\Debug\User Information.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\User Information\User Information\obj\Debug\User Information.exe
+C:\Users\group-bbv182\source\repos\User Information\User Information\obj\Debug\User Information.pdb
