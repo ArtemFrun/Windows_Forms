@@ -1,0 +1,10 @@
+C:\Users\group-bbv182\source\repos\MonthCalendar\MonthCalendar\bin\Debug\MonthCalendar.exe.config
+C:\Users\group-bbv182\source\repos\MonthCalendar\MonthCalendar\bin\Debug\MonthCalendar.exe
+C:\Users\group-bbv182\source\repos\MonthCalendar\MonthCalendar\bin\Debug\MonthCalendar.pdb
+C:\Users\group-bbv182\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.Form1.resources
+C:\Users\group-bbv182\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.exe
+C:\Users\group-bbv182\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.pdb
