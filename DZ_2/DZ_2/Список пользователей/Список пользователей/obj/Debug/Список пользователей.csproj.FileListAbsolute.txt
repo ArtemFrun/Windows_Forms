@@ -1,0 +1,10 @@
+C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\obj\Debug\Список пользователей.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\obj\Debug\Список_пользователей.Form1.resources
+C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\obj\Debug\Список_пользователей.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\obj\Debug\Список пользователей.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\obj\Debug\Список пользователей.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\bin\Debug\Список пользователей.exe.config
+C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\bin\Debug\Список пользователей.exe
+C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\bin\Debug\Список пользователей.pdb
+C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\obj\Debug\Список пользователей.exe
+C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\obj\Debug\Список пользователей.pdb
