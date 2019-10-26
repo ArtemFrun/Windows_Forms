@@ -282,7 +282,6 @@ namespace Список_пользователей
 
         private void Save_to_txt()
         {
-            listBox1.Items.Clear();
             try
             {
                 using (StreamWriter sw = new StreamWriter("Users.txt", false, System.Text.Encoding.Default))
@@ -292,7 +291,8 @@ namespace Список_пользователей
                         sw.WriteLine(listBox1.Items[i].ToString());
                     }
                 }
-                MessageBox.Show("Сохранено в файл txt", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Сохранено в файл txt", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                listBox1.Items.Clear();
             }
             catch(Exception)
             {
@@ -336,10 +336,22 @@ namespace Список_пользователей
 
         private void Import_with_xml()
         {
-            listBox1.Items.Clear();
+            
             try
             {
-               
+                listBox1.Items.Clear();
+                XmlDocument xdoc = new XmlDocument();
+                xdoc.Load("Users.xml");
+
+                XmlElement root = xdoc.DocumentElement;
+                foreach(XmlElement xelem in root)
+                {
+                    foreach(XmlNode chnode in xelem.ChildNodes)
+                    {
+                        if (chnode.Name == "Informatiom")
+                            listBox1.Items.Add(chnode.InnerText);
+                    }
+                }
             }
             catch (Exception)
             {
@@ -380,13 +392,13 @@ namespace Список_пользователей
 
         private void Save_to_xml()
         {
-            listBox1.Items.Clear();
+           
             try
             {
                 var doc = new XmlDocument();
                 var xmlDeclaration = doc.CreateXmlDeclaration("1.0", "UTF-16", null);
                 doc.AppendChild(xmlDeclaration);
-                var root = doc.CreateElement("Список Users");
+                var root = doc.CreateElement("Список");
                 for (int i = 0; i < listBox1.Items.Count; i++)
                 {
                     var UserNode = doc.CreateElement("Users");
@@ -395,13 +407,19 @@ namespace Список_пользователей
                     var information = doc.CreateElement("Informatiom");
                     information.InnerText = listBox1.Items[i].ToString();
                     UserNode.AppendChild(information);
+                    root.AppendChild(UserNode);
                 }
+                doc.AppendChild(root);
                 doc.Save("Users.xml");
+                MessageBox.Show("Сохранено в файл xml", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                listBox1.Items.Clear();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                MessageBox.Show("Файл занят", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Information);//"Файл занят"
             }
         }
+
+        
     }
 }

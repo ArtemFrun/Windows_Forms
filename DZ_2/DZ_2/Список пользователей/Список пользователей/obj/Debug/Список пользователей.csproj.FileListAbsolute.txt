@@ -8,3 +8,12 @@ C:\Users\group-bbv182\source\repos\Список пользователей\Сп�
 C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\bin\Debug\Список пользователей.pdb
 C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\obj\Debug\Список пользователей.exe
 C:\Users\group-bbv182\source\repos\Список пользователей\Список пользователей\obj\Debug\Список пользователей.pdb
+C:\Users\tjomka777tjomka777\Documents\GitHub\Windows_Forms\DZ_2\DZ_2\Список пользователей\Список пользователей\bin\Debug\Список пользователей.exe.config
+C:\Users\tjomka777tjomka777\Documents\GitHub\Windows_Forms\DZ_2\DZ_2\Список пользователей\Список пользователей\bin\Debug\Список пользователей.exe
+C:\Users\tjomka777tjomka777\Documents\GitHub\Windows_Forms\DZ_2\DZ_2\Список пользователей\Список пользователей\bin\Debug\Список пользователей.pdb
+C:\Users\tjomka777tjomka777\Documents\GitHub\Windows_Forms\DZ_2\DZ_2\Список пользователей\Список пользователей\obj\Debug\Список пользователей.csprojAssemblyReference.cache
+C:\Users\tjomka777tjomka777\Documents\GitHub\Windows_Forms\DZ_2\DZ_2\Список пользователей\Список пользователей\obj\Debug\Список_пользователей.Form1.resources
+C:\Users\tjomka777tjomka777\Documents\GitHub\Windows_Forms\DZ_2\DZ_2\Список пользователей\Список пользователей\obj\Debug\Список_пользователей.Properties.Resources.resources
+C:\Users\tjomka777tjomka777\Documents\GitHub\Windows_Forms\DZ_2\DZ_2\Список пользователей\Список пользователей\obj\Debug\Список пользователей.csproj.GenerateResource.cache
+C:\Users\tjomka777tjomka777\Documents\GitHub\Windows_Forms\DZ_2\DZ_2\Список пользователей\Список пользователей\obj\Debug\Список пользователей.exe
+C:\Users\tjomka777tjomka777\Documents\GitHub\Windows_Forms\DZ_2\DZ_2\Список пользователей\Список пользователей\obj\Debug\Список пользователей.pdb
