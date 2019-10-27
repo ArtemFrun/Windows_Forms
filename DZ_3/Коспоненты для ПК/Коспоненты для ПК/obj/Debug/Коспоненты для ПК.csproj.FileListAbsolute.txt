@@ -1,0 +1,10 @@
+C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\bin\Debug\Коспоненты для ПК.exe.config
+C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\bin\Debug\Коспоненты для ПК.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\bin\Debug\Коспоненты для ПК.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.csprojAssemblyReference.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты_для_ПК.Form1.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты_для_ПК.Properties.Resources.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.csproj.GenerateResource.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты_для_ПК.Form2.resources

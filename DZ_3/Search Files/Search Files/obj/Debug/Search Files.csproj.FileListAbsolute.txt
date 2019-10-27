@@ -1,0 +1,10 @@
+C:\Users\tjomka777tjomka777\Source\Repos\Search Files\Search Files\bin\Debug\Search Files.exe.config
+C:\Users\tjomka777tjomka777\Source\Repos\Search Files\Search Files\bin\Debug\Search Files.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Search Files\Search Files\bin\Debug\Search Files.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\Search Files\Search Files\obj\Debug\Search Files.csprojAssemblyReference.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Search Files\Search Files\obj\Debug\Search_Files.Form1.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Search Files\Search Files\obj\Debug\Search_Files.Properties.Resources.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Search Files\Search Files\obj\Debug\Search Files.csproj.GenerateResource.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Search Files\Search Files\obj\Debug\Search Files.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Search Files\Search Files\obj\Debug\Search Files.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\Search Files\Search Files\obj\Debug\Search_Files.Form2.resources
