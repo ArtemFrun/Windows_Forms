@@ -5,13 +5,14 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace BestOil
 {
     public partial class Form1 : Form
     {
+        bool slabel = true;
         public Form1()
         {
             InitializeComponent();
@@ -28,6 +29,11 @@ namespace BestOil
             textBox5.Text = "5,40";
             textBox6.Text = "7,20";
             textBox7.Text = "4,40";
+            timer2.Enabled = true;
+            timer2.Interval = 5000;
+            toolStripDropDownButton1.Text= DateTime.Now.DayOfWeek.ToString();
+            panel1.Visible = false;
+            toolStripStatusLabel1.Text = DateTime.Now.ToString("D");
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -175,6 +181,64 @@ namespace BestOil
                 textBox10.Enabled = false;
                 textBox11.Enabled = false;
             }
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            if (slabel == true)
+            {
+                toolStripStatusLabel1.Text = DateTime.Now.ToString("D");
+                slabel = false;
+            }
+            else
+            {
+                toolStripStatusLabel1.Text = DateTime.Now.ToString("HH:mm");
+                slabel = true;
+            }
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button3_MouseDown(object sender, MouseEventArgs e)
+        {
+            panel1.Visible = false;
+            button3.Visible = false;
+        }
+
+        private void trackBar1_ValueChanged(object sender, EventArgs e)
+        {
+            BackColor = Color.FromArgb((trackBar1.Value)*15, (trackBar2.Value)*15, (trackBar3.Value)*15);
+        }
+
+        private void цветОкнаToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            panel1.Visible = true;
+            button3.Visible = true;
+        }
+
+        private void русToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("ru");
+            Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("ru");
+
+            System.ComponentModel.ComponentResourceManager resource = new ComponentResourceManager(this.GetType());
+            resource.ApplyResources(this, "$this");
+            foreach (Control c in Controls)
+                resource.ApplyResources(c, c.Name);
+        }
+
+        private void engToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en");
+            Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("en");
+
+            System.ComponentModel.ComponentResourceManager resource = new ComponentResourceManager(this.GetType());
+            resource.ApplyResources(this, "$this");
+            foreach (Control c in Controls)
+                resource.ApplyResources(c, c.Name);
         }
     }
 }
