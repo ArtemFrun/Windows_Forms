@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfComponent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Component>
+    <name>as</name>
+    <properties>as</properties>
+    <description>s12</description>
+    <price>123</price>
+  </Component>
+  <Component>
+    <name>df</name>
+    <properties>f</properties>
+    <description>df</description>
+    <price>987</price>
+  </Component>
+</ArrayOfComponent>

@@ -8,3 +8,14 @@ C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Кос
 C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.exe
 C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.pdb
 C:\Users\tjomka777tjomka777\Source\Repos\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты_для_ПК.Form2.resources
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\bin\Debug\Коспоненты для ПК.exe.config
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\bin\Debug\Коспоненты для ПК.exe
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\bin\Debug\Коспоненты для ПК.pdb
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.csprojAssemblyReference.cache
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты_для_ПК.Form1.resources
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты_для_ПК.Form2.resources
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты_для_ПК.Properties.Resources.resources
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.csproj.GenerateResource.cache
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.exe
+C:\Users\group-bbv182\Documents\GitHub\Windows_Forms\DZ_3\Коспоненты для ПК\Коспоненты для ПК\obj\Debug\Коспоненты для ПК.pdb

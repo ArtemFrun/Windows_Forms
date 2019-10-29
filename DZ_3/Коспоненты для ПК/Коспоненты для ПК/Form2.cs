@@ -12,26 +12,55 @@ namespace Коспоненты_для_ПК
 {
     public partial class Form2 : Form
     {
-
+        Component _comp;
         public Form2()
         {
             InitializeComponent();
+            
         }
 
-        public Component New_component(object sender, EventArgs e, Component pc)
+        public void New_component(Component pc)
         {
-            Show();
-            return button1_Click(sender, e);
+            _comp = pc;
         }
-        private Component button1_Click(object sender, EventArgs e)
+
+        public void Chande_component(Component pc)
         {
-            Component newcomp = new Component();
-            newcomp.name = textBox1.Text;
-            newcomp.properties = textBox2.Text;
-            newcomp.description = textBox3.Text;
-            newcomp.price = textBox4.Text;
+            _comp = pc;
+            textBox1.Text = _comp.name;
+            textBox2.Text = _comp.properties;
+            textBox3.Text = _comp.description;
+            textBox4.Text = _comp.price.ToString();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "" || textBox4.Text == "")
+            {
+                MessageBox.Show("Заполнены не все поля", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                try
+                {
+                    _comp.name = textBox1.Text;
+                    _comp.properties = textBox2.Text;
+                    _comp.description = textBox3.Text;
+                    _comp.price = int.Parse(textBox4.Text);
+                    DialogResult = DialogResult.OK;
+                    Close();
+                }
+                catch(FormatException)
+                {
+                    MessageBox.Show("Цена указане не цыфрой", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+            
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
             Close();
-            return newcomp;
         }
     }
 }
