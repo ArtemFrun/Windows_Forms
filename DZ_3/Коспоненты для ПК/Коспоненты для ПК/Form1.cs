@@ -83,8 +83,26 @@ namespace Коспоненты_для_ПК
         {
             if (comboBox1.SelectedIndex != -1)
             {
-
+                textBox2.Text = comp.ElementAt(comboBox1.SelectedIndex).properties;
+                textBox1.Text = comp.ElementAt(comboBox1.SelectedIndex).price.ToString();
             }
+        }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add(comboBox1.Items[comboBox1.SelectedIndex]);
+            label6.Text = (double.Parse(label6.Text) + double.Parse(textBox1.Text)).ToString();
+        }
+
+        private void Button5_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+            label6.Text = "0,00";
+        }
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

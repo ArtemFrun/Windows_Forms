@@ -46,7 +46,7 @@ namespace Коспоненты_для_ПК
                     _comp.name = textBox1.Text;
                     _comp.properties = textBox2.Text;
                     _comp.description = textBox3.Text;
-                    _comp.price = int.Parse(textBox4.Text);
+                    _comp.price = double.Parse(textBox4.Text);
                     DialogResult = DialogResult.OK;
                     Close();
                 }
