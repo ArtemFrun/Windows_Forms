@@ -1,0 +1,9 @@
+C:\Users\tjomka777tjomka777\Source\Repos\Create_menu\Create_menu\bin\Debug\Create_menu.exe.config
+C:\Users\tjomka777tjomka777\Source\Repos\Create_menu\Create_menu\bin\Debug\Create_menu.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Create_menu\Create_menu\bin\Debug\Create_menu.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\Create_menu\Create_menu\obj\Debug\Create_menu.csprojAssemblyReference.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Create_menu\Create_menu\obj\Debug\Create_menu.Form1.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Create_menu\Create_menu\obj\Debug\Create_menu.Properties.Resources.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Create_menu\Create_menu\obj\Debug\Create_menu.csproj.GenerateResource.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Create_menu\Create_menu\obj\Debug\Create_menu.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Create_menu\Create_menu\obj\Debug\Create_menu.pdb

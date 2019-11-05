@@ -1,0 +1,9 @@
+C:\Users\tjomka777tjomka777\Source\Repos\Explorer\Explorer\bin\Debug\Explorer.exe.config
+C:\Users\tjomka777tjomka777\Source\Repos\Explorer\Explorer\bin\Debug\Explorer.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Explorer\Explorer\bin\Debug\Explorer.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\Explorer\Explorer\obj\Debug\Explorer.csprojAssemblyReference.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Explorer\Explorer\obj\Debug\Explorer.Form1.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Explorer\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+C:\Users\tjomka777tjomka777\Source\Repos\Explorer\Explorer\obj\Debug\Explorer.csproj.GenerateResource.cache
+C:\Users\tjomka777tjomka777\Source\Repos\Explorer\Explorer\obj\Debug\Explorer.exe
+C:\Users\tjomka777tjomka777\Source\Repos\Explorer\Explorer\obj\Debug\Explorer.pdb
